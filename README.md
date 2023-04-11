@@ -170,7 +170,9 @@
 
 <div align="center">
 
-이 라인에 움짤
+![미니게시판,캐러셀_1](https://user-images.githubusercontent.com/101506107/231173573-7398d3d3-b2e3-44e1-a57f-1de972f00589.gif)
+
+![미니게시판,캐러셀_2](https://user-images.githubusercontent.com/101506107/231173718-ff2c4210-075f-4e03-b19f-c33e0ff6a567.gif)
 
 </div>
 
